@@ -19,18 +19,25 @@
 
 
 <h1 align="center">Preview</h1>
-- Story based gameplay, Player has to collect loot from the chests, and kill the guarding monsters.
+- An RPG game built on the Flow Blockchain, check the youtube video to view the demo. 
 
-- Player has to unlock the locked token gates to reach the Mantle NFT collectible found at the End of the gameplay.
+- Signup using Blockto Wallet using your email to obtain an addresss
+
+- Story based gameplay, Player has to collect loot from the chests, and kill the guarding monsters who have different hit points.
+
+- Player has to unlock the locked token gates to reach the Flow NFT collectible found at the End of the gameplay.
 
 
 - For achieving this, he has to break open the walls to unlock and find the mysterious wizard who is held captive and fetch the key to the gate.
 
 
-- In the end, after killing the evil angel, the player finally gets the key to the ultimate gate to get to the Mantle NFT.
+- In the end, after killing the evil angel, the player finally gets the key to the ultimate gate to get to the Flow NFT.
 
 
-- Player has three lives and is minted 4 DGN tokens for every Chest collected.
+- Player has three lives and is minted 4 coins and an NFT for every every Chest collected, and also mints a non-fungible token to his Blockto custodial wallet
+
+- Players can also view their game collectibles in the Player Dashboard on the game UI
+
 
 ## Contract address 
 Game NFT Contract deployed on Flow Testnet : `0x7da523a18f7eb2c4`
@@ -45,7 +52,18 @@ Game NFT Contract deployed on Flow Testnet : `0x7da523a18f7eb2c4`
 
 # Tech Stack
 ![image](https://user-images.githubusercontent.com/43913734/222055680-96a9a470-e5d2-4215-b357-d08f1dddf082.png)
+- PhaserJS
+- React
+- Flow fcl
+- Blockto Wallet
+- Aseprite 
 
+# Future Plan
+- Introduce Game Token
+- Introduce Native Maketplace and multi-character feature
+- Allow players to create and uplaod their own storylines and characters to the platform with DAO token incentives
+- Stake and Battle modes
+- In game DEX on Flow Blockchain
 
 # How to run ?
 
