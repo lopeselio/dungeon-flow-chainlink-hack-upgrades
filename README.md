@@ -3,7 +3,7 @@
 
 <p align="center">
    <a href="/">
-    <img src="" alt="Logo" width="240" height="240">
+    <img src="https://user-images.githubusercontent.com/43913734/222053622-56ce8493-5e31-4b8e-93c7-4a513a1865c3.png" alt="Logo" width="240" height="240">
   </a> 
 
   <h6>Built at Flow HAckathon Devfolio 2023</h6>
