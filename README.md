@@ -1,3 +1,3 @@
-#dungeon-flow
+# The Dungeon Flow
 
-## flow-devfolio-hackathon
+## Built for the Flow-Devfolio-Hackathon
