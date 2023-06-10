@@ -41,8 +41,10 @@
 
 
 ## Contract address 
-Game NFT Contract deployed on Flow Testnet : `0x7da523a18f7eb2c4`
-[Verify on Flow Testnet](https://testnet.flowscan.org/account/0x7da523a18f7eb2c4)
+Game NFT Contract deployed on Flow Testnet : `0x9f690718478ff417`
+[Verify on Flow Testnet](https://testnet.flowscan.org/account/0x9f690718478ff417)
+[Verify testnet deployment on Flow-view-source](https://flow-view-source.com/testnet/account/0x9f690718478ff417)
+![image](https://github.com/lopeselio/dungeon-flow-chainlink-hack-upgrades/assets/43913734/cf3a7e76-cc40-4c4f-b28c-eb4851c497a6)
 
   
 
