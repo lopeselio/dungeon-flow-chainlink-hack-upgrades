@@ -1,5 +1,5 @@
-// let EthPrice = 100
-// let hardcap = 1000
+// let EthPrice = 1000
+// let hardcap = 10000
 
 // function getDiscountPrice(_collateralAmount) {
 //     let EthEvaluation = _collateralAmount * EthPrice;
