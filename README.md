@@ -6,10 +6,11 @@
     <img src="https://user-images.githubusercontent.com/43913734/222053622-56ce8493-5e31-4b8e-93c7-4a513a1865c3.png" alt="Logo" width="240" height="240">
   </a> 
 
-  <h6>Built at Flow HAckathon Devfolio 2023</h6>
+  <h6>Initiated during Flow Hackathon Devfolio 2023 & Improved during Chainlink Spring Hackathon 2023</h6>
 
 
   <img width="340" alt="image" src="https://user-images.githubusercontent.com/43913734/222052581-327dc84c-3ffa-4363-a295-53c9364750ed.png">
+<img width="1432" alt="image" src="https://github.com/lopeselio/dungeon-flow-chainlink-hack-upgrades/assets/43913734/46754009-fbd9-422a-8c7a-5d0a9e5b67de">
 
   </p>
 
