@@ -5,6 +5,20 @@ import {FiThumbsUp} from 'react-icons/fi';
 
 export default function Box({name,img,level, price}) {
 
+  // const IPFS=require(‘ipfs-http-client’);
+// const client = IPFS({host:‘ipfs.infura.io’,port:5001,protocol:‘https’});
+// const client = create({ host: 'ipfs.infura.io', port: '5001', apiPath: '/ipfs/api/v0' })
+// const auth =
+//     'Basic ' + Buffer.from(INFURA_ID + ':' + INFURA_SECRET_KEY).toString('base64');
+// const client = ipfsClient.create({
+//     host: 'ipfs.infura.io',
+//     port: 5001,
+//     protocol: 'https',
+//     headers: {
+//         authorization: auth,
+//     },
+// });
+
   // function handleUpvote(){
   //       const requestOptions = {
   //         method: "POST",
